@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+chroma_db/
+temp_*.pdf
+.env  # Add this line
